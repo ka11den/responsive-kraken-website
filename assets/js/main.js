@@ -16,7 +16,7 @@ if (navClose) {
     })
 }
 
-/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
+// scroll sections
 const sections = document.querySelectorAll('section[id]')
 
 function scrollActive(){
